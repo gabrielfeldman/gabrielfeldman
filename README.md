@@ -1,5 +1,5 @@
 - :vulcan_salute: Hi, I’m @gabrielfeldman
-- 👀 I’m interested in fronted development, UX & Communication 
+- 👀 I’m interested in Front-end development, UX & Communication 
 - :computer: I’m currently learning Web Design
 
 
